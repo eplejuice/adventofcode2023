@@ -1,9 +1,9 @@
 ﻿using csharp.Day1;
 using csharp.Day2;
-using csharp.Day3;
 using csharp.Day6;
 using csharp.Day7;
 using csharp.Day8;
+using csharp.Day9;
 
 //Day1.Run();
 //Day1.RunPartTwo();
@@ -19,4 +19,7 @@ using csharp.Day8;
 //Day7.Run();
 
 //Day8.Run();
-Day8.RunPartTwo();
+//Day8.RunPartTwo();
+
+Day9.Run();
+Day9.RunPartTwo();
